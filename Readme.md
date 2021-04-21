@@ -1,0 +1,1 @@
+We want to make egg rice.This is a very simple dish and tasty to eat.Make sure that you have all the ingreadents listed in ingredents.md and follow the steps in Receipe.md.
